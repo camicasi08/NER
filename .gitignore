@@ -3,3 +3,7 @@ corpus/*
 embeddings/*
 __pycache__/*
 .ipynb_checkpoints/*
+NER-Copy1.ipynb
+Untitled.ipynb
+.vscode/*
+encoded/*
